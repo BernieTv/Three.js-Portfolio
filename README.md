@@ -1,3 +1,15 @@
+<div align="center">
+  <br />
+    <img src="https://raw.githubusercontent.com/adrianhajdin/3d-portfolio/refs/heads/main/public/images/readme.png" alt="Project Banner">
+  <br />
+
+  <div>
+    <img src="https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </div>
+</div>
+
 # 🎨 3D Portfolio Website
 
 An immersive, animated, and responsive portfolio built with modern 3D web technologies — designed to make a bold first impression.
@@ -14,7 +26,7 @@ An immersive, animated, and responsive portfolio built with modern 3D web techno
 
 ---
 
-## 🤖 Introduction
+## <a name="introduction">🤖 Introduction</a>
 
 Welcome to the **3D Portfolio Website** — where your digital self gets the red carpet treatment.
 
@@ -24,7 +36,7 @@ It’s slick. It’s sassy. It’s scalable. Built for Gen Z ambition with enter
 
 ---
 
-## ⚙️ Tech Stack
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
 Built with bleeding-edge tools from the modern frontend ecosystem:
 
@@ -38,7 +50,7 @@ Built with bleeding-edge tools from the modern frontend ecosystem:
 
 ---
 
-## 🔋 Features
+## <a name="features">🔋 Features</a>
 
 ✨ **Immersive Experience**  
 → Animated 3D models with lifelike lighting and motion  
@@ -64,7 +76,7 @@ Built with bleeding-edge tools from the modern frontend ecosystem:
 
 ---
 
-## 🚀 Quick Start
+## <a name="quick-start">🚀 Quick Start</a>
 
 ### ✅ Prerequisites
 
@@ -111,7 +123,7 @@ Then open [`http://localhost:5173`](http://localhost:5173) in your browser to vi
 
 ---
 
-## 🧠 Project Structure
+## <a name="project-structure">🧠 Project Structure</a>
 
 ```bash
 src/
